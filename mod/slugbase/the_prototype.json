@@ -1,0 +1,23 @@
+{
+	"id": "TheCreatreID",
+	"name": "The Creature",
+	"description": "A recolored copy of The Survivor that demonstrates some custom SlugBase features.<LINE>This is a template mod for SlugBase.",
+	"features": {
+		"color": "9cf0a4",
+		"loudness": 0.9,
+		"throw_skill": 0.1,
+		"walk_speed": 0.7,
+		"weight": 0.9,
+		"back_spear": true,
+		"can_maul": true,
+		"maul_damage": 2,
+		"diet": {
+			"meat": 0.75,
+			"corpses": 0.75,
+			"plants": 0.5
+		},
+
+		"select_menu_scene": "Slugcat_TheCreatureID",
+		"select_menu_scene_ascended": "Ghost_TheCreatureID"
+	}
+}

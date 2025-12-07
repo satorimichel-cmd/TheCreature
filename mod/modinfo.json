@@ -1,0 +1,10 @@
+﻿{
+	"id": "TheCreatreID",
+	"name": "The Creature",
+	"version": "0.1.0",
+	"authors": "srimsfailurez",
+	"description": "A ravenous anomaly, weaponed with sharp claws and teeth paired with adhesive spit.",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ],
+	"tags": [ "Custom Slugcat" ]
+}
