@@ -1,7 +1,7 @@
 {
 	"id": "TheCreatreID",
 	"name": "The Creature",
-	"description": "A recolored copy of The Survivor that demonstrates some custom SlugBase features.<LINE>This is a template mod for SlugBase.",
+	"description": "A ravenous anomaly, weaponed with sharp claws and teeth paired with adhesive spit.",
 	"features": {
 		"color": "9cf0a4",
 		"loudness": 0.9,
@@ -16,7 +16,8 @@
 			"corpses": 0.75,
 			"plants": 0.5
 		},
-
+        "auto_grab_batflies": false
+		"crouch_stealth": 0.9
 		"select_menu_scene": "Slugcat_TheCreatureID",
 		"select_menu_scene_ascended": "Ghost_TheCreatureID"
 	}
